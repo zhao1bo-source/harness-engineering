@@ -72,6 +72,7 @@ I write about these experiments on my WeChat channel **《硅基电报》** (Sil
 
 - 📬 zhao1bo@gmail.com
 - 🐦 [Twitter/X](https://x.com/zhao1bo)
+- Discussion on X → [It's Not the Model. It's the Context.](https://x.com/zhao1bo/status/2056610743282446737)
 
 ---
 
