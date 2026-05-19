@@ -26,7 +26,7 @@ This repository collects my ongoing thinking and experiments at the intersection
 
 | Title | Core Idea | Read |
 |-------|-----------|------|
-| It's Not the Model. It's the Context. | Context failures are silent. Teams blame the model when they should debug the context. Introduces the Context Maturity Ladder (5 levels) and the case for eval-driven context development. | articles/en/context-not-model.md |
+| It's Not the Model. It's the Context. | Context failures are silent. Teams blame the model when they should debug the context. Introduces the Context Maturity Ladder (5 levels) and the case for eval-driven context development. | [articles/en/context-not-model.md](https://github.com/zhao1bo-source/harness-engineering/blob/main/articles/en/context-not-model.md) |
 | AI Coding's Harness Engineering Guide | *Coming soon* | — |
 | Organizational Practice and Reflections by Harness | *Coming soon* | — |
 
