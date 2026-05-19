@@ -1,5 +1,3 @@
-# AI Coding 用户的 Harness Engineering 指南
-
 要让 Coding Agent 在更少人工监督下工作，我们需要建立对其输出结果的信任机制。作为软件工程师，我们对 AI 生成的代码天然存在信任壁垒——LLM 是非确定性的，它不了解我们的上下文，也不真正「理解」代码，它以 token 为单位思考。本文探讨一种将上下文工程与 Harness Engineering 新兴概念融合在一起的思维模型，用以建立这种信任。
 
 「Harness」这个词已经成为一个简称，泛指 AI agent 中除模型本身之外的一切——**Agent = Model + Harness**。这个定义范围很广，因此有必要针对具体类别的 agent 加以收窄。本文专注于「Coding Agent」这一语境下的定义。Coding Agent 本身已内置了部分 harness（例如系统提示、代码检索机制，甚至复杂的编排系统）。但 Coding Agent 也为用户提供了大量功能，让我们能为自己的具体用例和系统构建一套「外层 harness」。
