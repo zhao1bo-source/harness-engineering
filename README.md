@@ -6,9 +6,7 @@
 
 ---
 
-## What is Harness Engineering?
-
-A model is only as good as the system around it.
+## A model is only as good as the system around it.
 
 **Harness Engineering** is the discipline of designing everything that sits between a frontier model and a real outcome: context pipelines, tool orchestration, memory architecture, agent loops, skill systems, organizational workflows, and the human-AI collaboration patterns that make it all work.
 
@@ -32,56 +30,12 @@ This repository collects my ongoing thinking and experiments at the intersection
 
 ---
 
-## Key Concepts
-
-### The Context Maturity Ladder
-
-Most teams are stuck at Level 1–2. The gap to Level 3+ is where real leverage lives.
-
-```
-Level 1  Ad-hoc prompts      No accumulation. Results vary per session.
-Level 2  Rule files          AGENTS.md, auto-injected. Most teams are here. Cowboy coding.
-Level 3  Structured skills   Rules packaged as executable skill bundles with scripts + docs.
-Level 4  Dynamic context     Real-time context pulled from meetings, tools, discussions.
-Level 5  Spec-driven dev     Prompts as specifications. Agent plans its own execution path. ≈ Harness.
-```
-
-### The Silent Failure Problem
-
-Code crashes loudly. Bad context fails silently — the agent just produces subtly wrong output, and you blame the model. This is the most underrated problem in enterprise AI adoption.
-
-### The Context Flywheel
-
-Unlike Amazon's business flywheel (needs scale to spin), the context flywheel starts on day one:
-
-```
-More tasks → More context (input) → Clearer specs (PDCA) → Better agent output → More tasks
-```
-
-Models are commodities. Context is the moat.
-
----
-
 ## About
 
 I'm **Yibo Zhao** — a product builder and AI practitioner based in Beijing.
 
 Background: 6 years leading innovation businesses at Meituan (China's leading local services platform) + 5 years as a startup co-founder. For the past two years I've been running hands-on experiments with AI-native team structures, context engineering, and agent-centric organizational design.
 
-I write about these experiments on my WeChat channel **《硅基电报》** (Silicon Dispatch).
-
 - 📬 zhao1bo@gmail.com
 - 🐦 [Twitter/X](https://x.com/zhao1bo)
 - Discussion on X → [It's Not the Model. It's the Context.](https://x.com/zhao1bo/status/2056610743282446737)
-
----
-
-## Why GitHub?
-
-The best context engineering thinking is currently scattered across blog posts, Discord threads, and conference talks — almost none of it in structured, citable form. I'm building this repo as a living knowledge base: things I've tried, things that worked, frameworks I've stress-tested against real business problems.
-
-PRs, issues, and discussion welcome. If you're building in this space, I want to hear from you.
-
----
-
-*Language note: Most articles are written in Chinese first, as that's where my primary audience and experimental context (Meituan, Chinese AI ecosystem) lives. English abstracts are included in each article. Full translations planned for pieces that get traction.*
