@@ -71,7 +71,7 @@ Background: 6 years leading innovation businesses at Meituan (China's leading lo
 I write about these experiments on my WeChat channel **《硅基电报》** (Silicon Dispatch).
 
 - 📬 zhao1bo@gmail.com
-- 🐦 [Twitter/X](#) *(Yibo Zhao)*
+- 🐦 [Twitter/X]([#](https://x.com/zhao1bo))
 
 ---
 
