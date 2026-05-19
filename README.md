@@ -25,8 +25,8 @@ This repository collects my ongoing thinking and experiments at the intersection
 | Title | Core Idea | Read |
 |-------|-----------|------|
 | It's Not the Model. It's the Context. | Context failures are silent. Teams blame the model when they should debug the context. Introduces the Context Maturity Ladder (5 levels) and the case for eval-driven context development. | [articles/en/context-not-model.md](https://github.com/zhao1bo-source/harness-engineering/blob/main/articles/en/context-not-model.md) |
-| AI Coding's Harness Engineering Guide | *Coming soon* | [AI Coding's Harness Engineering Guide](https://github.com/zhao1bo-source/harness-engineering/blob/main/articles/en/harness-engineering-guide.md) |
-| Organizational Practice and Reflections by Harness | *Coming soon* | [Organizational Practice and Reflections by Harness](https://github.com/zhao1bo-source/harness-engineering/blob/main/articles/en/ai-org-transformation.md) |
+| AI Coding's Harness Engineering Guide | Guides (feedforward) raise the probability an agent gets it right the first time. Sensors (feedback) help it self-correct. The critical rule: if a constraint can be enforced computationally, never delegate it to an LLM. Maps the full harness lifecycle from pre-commit to continuous drift detection. | [AI Coding's Harness Engineering Guide](https://github.com/zhao1bo-source/harness-engineering/blob/main/articles/en/harness-engineering-guide.md) |
+| Organizational Practice and Reflections by Harness | Field notes from restructuring a team at Meituan around agents as the primary work unit. Context is the organizational foundation — agents need the same information density as humans to participate in real thinking. The unexpected finding: AI doesn't make people's work easier. It makes people more expensive. | [Organizational Practice and Reflections by Harness](https://github.com/zhao1bo-source/harness-engineering/blob/main/articles/en/ai-org-transformation.md) |
 
 ---
 
